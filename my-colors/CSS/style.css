@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: #658B7b;
+}
+h2 {
+    color:#73808B;
+    text-align: center;
+}
+body {
+    font-family: 'Lucida Sans';
+    margin-inline: 200px;
+}
+img {
+    width: 900px;
+    border: 5px solid #bdbf79;
+}
+.darkgreen {
+    background-color: #54592E;
+    color: white
+}
+.green {
+    background-color: #6C7335;
+    color: white
+}
